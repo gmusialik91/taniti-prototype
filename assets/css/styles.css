@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.split {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.split.reverse {
+    flex-direction: row-reverse;
+}
+
+.text-column, .image-column {
+    flex: 1;
+}
+
+.image-column {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem;
+}
+
+.image-column img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    object-fit: cover;
+}
+
+@media (max-width: 800px) {
+    .split, .split.reverse {
+        flex-direction: column;
+    }
+    .image-column {
+        grid-template-columns: 1fr 1fr;
+    }
+}
