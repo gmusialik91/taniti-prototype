@@ -27,10 +27,22 @@ header h1 {
     font-size: 1.5rem;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
 body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.5;
+}
+
+main {
+    flex: 1;
 }
 
 nav {
@@ -93,6 +105,61 @@ nav {
     height: auto;
     border-radius: 4px;
     object-fit: cover;
+}
+
+footer {
+    border-top: 1px solid black;
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.footer-nav {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0;
+    list-style: none;
+}
+
+.footer-nav a {
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+    color: #000F5D;
+    font-variant: small-caps;
+    letter-spacing: 3px;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.footer-nav a:hover {
+    color: var(--link-hover-color);
+    text-decoration: underline;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.footer-nav a:active {
+    color: var(--link-active-color);
+}
+
+.fineprint {
+    margin: 0;
+}
+
+.fineprint a {
+    text-decoration: underline;
+}
+
+.fineprint a:hover {
+    color: var(--link-hover-color);
+}
+
+.fineprint a:active {
+    color: var(--link-active-color);
 }
 
 @media (max-width: 800px) {
