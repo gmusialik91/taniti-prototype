@@ -1,3 +1,18 @@
+:root {
+    --font-main: 'Arial', sans-serif;  
+    --font-alt: 'Georgia', serif;      
+    --text-color: #333;         
+    --background-color: rgba(240, 240, 240, 0.6); 
+    --link-color: #3498db;      
+    --link-hover-color: #2980b9; 
+    --link-active-color: #7300e6;
+    --box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    --text-outline: 1px 1px 0 white,
+                    -1px -1px 0 white,
+                    1px -1px 0 white,
+                    -1px 1px 0 white; 
+}
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
