@@ -39,6 +39,12 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.5;
+
+    background-image: url("../img/misc/beach_back.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 main {

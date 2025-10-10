@@ -1,0 +1,1 @@
+https://pixabay.com/photos/beach-shoreline-aerial-view-832346/
