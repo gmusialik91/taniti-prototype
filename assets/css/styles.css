@@ -22,9 +22,30 @@ header {
     border-bottom: 1px solid black;
 }
 
-header h1 {
-    font-weight: 700;
-    font-size: 1.5rem;
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.logo {
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+    margin-bottom: 0;
+}
+
+.brand h1 {
+    font-family: 'Hurricane';
+    font-weight: 500;
+    font-size: 3.3rem;
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+.brand h1 a {
+    text-decoration: none;
+    color: inherit;
 }
 
 html, body {
