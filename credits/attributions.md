@@ -14,8 +14,8 @@ img/home
 **boat_bay**
 Pexels. *Bay Beach Boat Islands Wodden Boat*. 2016. *Pixabay*, https://pixabay.com/photos/bay-beach-boat-islands-wooden-boat-1867798/
 
-**lighthouse**
-Nori, Kane. *Lighthouse Starry Sky Universe*. 2021. *Pixabay*, https://pixabay.com/photos/lighthouse-starry-sky-universe-6785763/
+**houses_dusk**
+Bubu, Kasa. *Santorin Greek Island Cyclades*. 2016. *Pixabay*, https://pixabay.com/photos/santorin-greek-island-cyclades-1788620/
 
 **sunset_silo**
 Hudson, Trace. *Photo of a Woman Standing Near The Pool During Sunset*. 2019. *Pexels*, https://www.pexels.com/photo/photo-of-a-woman-standing-near-the-pool-during-sunset-2535206/
