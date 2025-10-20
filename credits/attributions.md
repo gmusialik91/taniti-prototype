@@ -64,3 +64,12 @@ Svetsikas, Dimitri. *Houses Town Port Harbor Symi*. 2022. *Pixabay*, https://pix
 ---
 
 img/transportation
+
+**city_bus**
+Atlantic Ambience. *Blue and White Bus*. 2017. *Pexels*, https://www.pexels.com/photo/blue-and-white-bus-319960/
+
+**private_bus**
+Dezalb. *Bus Bus Station Because Antigua*. 2015. *Pixabay*, https://pixabay.com/photos/bus-bus-station-because-antigua-776945/
+
+**car**
+Nilov, Mikhail. *Couple During Road Trip in Countryside*. 2017. *Pexels*, https://www.pexels.com/photo/couple-during-road-trip-in-countryside-8356702/
