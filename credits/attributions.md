@@ -11,7 +11,17 @@ Foundry. *Beach Shoreline Arial*. 2015. *Pixabay*, https://pixabay.com/photos/be
 
 img/home
 
+**boat_bay**
+Pexels. *Bay Beach Boat Islands Wodden Boat*. 2016. *Pixabay*, https://pixabay.com/photos/bay-beach-boat-islands-wooden-boat-1867798/
 
+**lighthouse**
+Nori, Kane. *Lighthouse Starry Sky Universe*. 2021. *Pixabay*, https://pixabay.com/photos/lighthouse-starry-sky-universe-6785763/
+
+**sunset_silo**
+Hudson, Trace. *Photo of a Woman Standing Near The Pool During Sunset*. 2019. *Pexels*, https://www.pexels.com/photo/photo-of-a-woman-standing-near-the-pool-during-sunset-2535206/
+
+**hammock**
+Pexels. *Beach Hammock Blue Sky Clouds*. 2016. *Pixabay*, https://pixabay.com/photos/beach-hammock-blue-sky-clouds-1868047/
 
 ---
 
@@ -73,3 +83,6 @@ Dezalb. *Bus Bus Station Because Antigua*. 2015. *Pixabay*, https://pixabay.com/
 
 **car**
 Nilov, Mikhail. *Couple During Road Trip in Countryside*. 2017. *Pexels*, https://www.pexels.com/photo/couple-during-road-trip-in-countryside-8356702/
+
+**bikes**
+FotoEmotions. *O Bike Rental Bike App Controlled*. 2017. *Pixabay*, https://pixabay.com/photos/o-bike-rental-bike-app-controlled-2662660/
