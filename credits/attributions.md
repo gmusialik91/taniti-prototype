@@ -49,7 +49,17 @@ Pearlis. *Paella Fish Seafood*, 2015. *Pixabay*, https://pixabay.com/photos/pael
 
 img/lodging
 
+**huts**
+Silver, Julius. *Bora Bora Island Caribbean Tahiti*. 2017. *Pixabay*, https://pixabay.com/photos/bora-bora-island-caribbean-tahiti-3023437/
 
+**resort**
+Texcosa. *Beach Hotel Resort Island*. 2021. *Pixabay*, https://pixabay.com/photos/beach-hotel-resort-island-6026018/
+
+**hotel**
+Galamay, Kat. *Hotel Pool Vacation Thailand*. 2015. *Pixabay*, https://pixabay.com/photos/hotel-pool-vacation-thailand-1018039/
+
+**houses**
+Svetsikas, Dimitri. *Houses Town Port Harbor Symi*. 2022. *Pixabay*, https://pixabay.com/photos/houses-town-port-harbor-symi-7166371/
 
 ---
 
