@@ -33,7 +33,17 @@ PublicDomainPictures. *Tortoise Giant Water Road Bus*. 2012. *Pixabay*, https://
 
 img/dining
 
+**dock_rest**
+Svetsikas, Dimitri. *Cyprus Potamos Liopetri*. 2017. *Pixabay*, https://pixabay.com/photos/cyprus-potamos-liopetri-fish-tavern-2603885/
 
+**rest_plate**
+Pitzel, Michelle. *Restaurant Dining Table Plate Dish*. 2014. *Pixabay*, https://pixabay.com/photos/retaurant-dining-table-plate-dish-411940/
+
+**supermarket**
+Eslatic Computer Farm. *Supermarket stalls coolers market*. 2016. *Pixabay*, https://pixabay.com/photos/supermarket-stalls-coolers-market-949913/
+
+**paella**
+Pearlis. *Paella Fish Seafood*, 2015. *Pixabay*, https://pixabay.com/photos/paella-fish-seafood-spanish-spain-1038048/
 
 ---
 
