@@ -170,11 +170,12 @@ main {
 
 .faq-cta {
     background: rgba(255, 255, 255, 0.4);
-    border-radius: 6px;
+    border-radius: 10px;
     padding: 1.25rem;
     font-family: "Trebuchet MS", "Segoe UI", Arial, sans-serif;
     line-height: 1.6;
     text-align: center;
+    box-shadow: var(--box-shadow);
 }
 
 .faq-cta h3 {
@@ -238,8 +239,9 @@ main {
     font-family: "Trebuchet MS", "Segoe UI", Arial, sans-serif;
     background: rgba(255, 255, 255, 0.4);
     padding: 1rem;
-    border-radius: 6px;
+    border-radius: 10px;
     line-height: 1.7;
+    box-shadow: var(--box-shadow);
 }
 
 .divider {
@@ -278,6 +280,12 @@ main {
     height: auto;
     border-radius: 4px;
     object-fit: contain;
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+
+.image-column img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.25);
 }
 
 .image-column img:nth-child(1) {
@@ -315,11 +323,12 @@ main {
 
 .contact-info {
     background: rgba(255, 255, 255, 0.4);
-    border-radius: 6px;
+    border-radius: 10px;
     padding: 1.25rem;
     font-family: "Trebuchet MS", "Segoe UI", Arial, sans-serif;
     line-height: 1.6;
     text-align: left;
+    box-shadow: var(--box-shadow);
 }
 
 .contact-form h3 {
