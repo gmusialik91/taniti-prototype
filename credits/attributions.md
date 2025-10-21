@@ -7,6 +7,8 @@ img/misc
 **beach_back**
 Foundry. *Beach Shoreline Arial*. 2015. *Pixabay*, https://pixabay.com/photos/beach-shoreline-aerial-view-832346/
 
+MickeyLIT. *AI Generated Palm Tree Sunset*. 2023. *Pixabay*, https://pixabay.com/vectors/ai-generated-palm-tree-sea-sunset-8249555/
+
 ---
 
 img/home
