@@ -496,4 +496,19 @@ footer {
     .contact-layout {
         grid-template-columns: 1fr;
     }
+    header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .nav-list {
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 0.25rem 0.5rem;
+    }
+    .nav-list a {
+        padding: 0.35rem 0.6rem;
+        font-size: 1rem;
+    }
 }
