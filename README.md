@@ -1,6 +1,6 @@
 # Taniti Tourism Website Prototype
 
-This repository contains a low-fidelity UX prototype for a tourism website promoting the island of Taniti.  
+This repository contains a mid-fidelity UX prototype for a tourism website promoting the island of Taniti.  
 The project was developed as part of Western Governors University’s **UX Design (D479)** course.
 
 ---
